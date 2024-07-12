@@ -8,7 +8,7 @@ const Sidebar = () => {
 <p className="title">Desenvolvedor</p>
 <SocialNetworks/>
 <InformationContainer/>
-<a href="" className="btn">dowload curriculo</a>
+<a  href='https://drive.google.com/file/d/1Mhq7NpSxkGcad5enm1quCaAn6HI5SZ1t/view?usp=sharing' download="curiculo.pdf" className="btn">dowload curriculo</a>
   </aside>
 }
 
